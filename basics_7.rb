@@ -1,0 +1,1 @@
+#Syntax error says that the close bracket should be a curly one, not a round one -- '}', not ')', or that there is a close bracket completely missing
